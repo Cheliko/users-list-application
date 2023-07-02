@@ -9,12 +9,14 @@ Navigate to http://localhost:8080.
 You should see the app running. 
 
 Users List:
-By clicking on each users row you can view the users details.
+By clicking on each user's row you can view the users details.
+'Missing Name' will appear when the api returns null to firstName or lastName.
 
 User Details:
-By navagating to http://localhost:8080/#/{userId} you can view the details of a specific user.
+By navigating  to http://localhost:8080/#/{userId} you can view the details of a specific user.
+'Missing Name' will appear when the api returns null to firstName or lastName.
+'Updated At', 'Role' and 'Phone' will appear when the api returns the relevant information.
 
-About:
-By navagating to http://localhost:8080/#/about you can view the About Page
+By navigating to http://localhost:8080/#/about you can view the About Page
 
 
