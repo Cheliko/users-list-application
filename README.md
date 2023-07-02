@@ -1,7 +1,7 @@
 
 # Users List App
 
-The application will display a list of users, and an option to view the user details for each user in the list
+The application displays a list of users, and an option to view the user details for each user in the list.
 
 To run  the project run `npm run dev` from the root folder
 
